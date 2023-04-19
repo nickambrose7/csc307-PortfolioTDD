@@ -1,0 +1,14 @@
+{
+  "name": "csc-307-portfoliotdd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Portfolio.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Nick Ambrose",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
